@@ -1,6 +1,6 @@
 # Third-party assets
 
-## `public/audio/hayun-jumpscare.mp3`
+## `site/audio/hayun-jumpscare.mp3`
 
 - Title: **Female Scream Horror**
 - Performer/uploader credit shown by the source: **NeoPhyTe**
@@ -14,7 +14,7 @@
 
 The source page and this provenance record should be rechecked before any future relicensing or commercial redistribution of the standalone asset.
 
-## `public/audio/station-ambient.ogg`
+## `site/audio/station-ambient.ogg`
 
 - Title: **Ambient Horror Track 01**
 - Creator: **Cleyton Kauffman**
